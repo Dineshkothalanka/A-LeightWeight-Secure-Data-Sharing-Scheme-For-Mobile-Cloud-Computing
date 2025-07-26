@@ -64,7 +64,7 @@ This project implements a **lightweight and secure data sharing system** designe
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the APACHE 2.0.
 
 ---
 
